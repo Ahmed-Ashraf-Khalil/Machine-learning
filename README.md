@@ -1,6 +1,6 @@
 ![istockphoto-966248982-612x612](https://user-images.githubusercontent.com/59618586/103790076-6a3ab880-5049-11eb-9ed9-10abbda572cf.jpg)
 
-# Machine Learning Projects ![istockphoto-966248982-612x612]
+# Machine Learning Projects 
 
 
 ### Several Machine Learning projects describing :
