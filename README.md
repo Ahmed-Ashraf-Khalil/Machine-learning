@@ -24,13 +24,13 @@ In this file you will know :
 after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier
 In this file you will know :
 
-* tools to help you work better and faster
-* more advanced visualizations
+* tools to help you work better and faster.
+* more advanced visualizations.
 * advanced tools that takes you the extra mile.
 
 
 What Tools you will need: 
 
 ```
-pandas , numpy , sklearn , matplotlib , seaborn , missingno
+pandas , numpy , sklearn , matplotlib , seaborn 
 ```
