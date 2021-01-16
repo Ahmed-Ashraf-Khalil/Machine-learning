@@ -37,7 +37,7 @@ In this file you will know :
 * [Upper Confidence Bound](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/simple%20re-inforcement-learning/UCB)
 * [Thompson sampling](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/simple%20re-inforcement-learning/thompson_sampling)
 
-## Machine learning With tools (Python) :
+## Machine learning With Libraries (Python) :
 
 after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier
 In this file you will know :
