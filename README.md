@@ -46,6 +46,43 @@ In this file you will know :
 * more advanced visualizations.
 * advanced tools that takes you the extra mile.
 
+### parts of this file:
+
+#### Supervised Learning:
+
+* [KNN regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/KNN%20regression%20projects)
+
+* [KNN Classification ](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/KNN%20classification%20projects)
+
+* [Decision Tree Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/decision-tree-regression)
+
+* [Random Forest Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/random-forest-regression)
+
+* [Gradient Boosted Decision Trees](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/ensample%20models/gradient%20boosted%20decision%20trees)
+
+* [Random Forest Classifier](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/ensample%20models/random%20forest%20classifier)
+
+* [Decision Trees and Random Forests_Classification (compare)](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/Decision%20Trees%20and%20Random%20Forests_projects%20(compare))
+
+* [Dummy Regressor](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/dummy%20%2C%20linear%20regression%20more)
+
+* [Dummy classifier](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/dummy%20classifier%20projects)
+
+* [SVR](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/support-vector-regression)
+
+* [SVC](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/SVM%20projects)
+
+* [Lasso Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/lasso%20rigression)
+
+* [Ridge Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/ridge%20regression%20projects)
+
+* [Polonomial Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/polynomial%20regression)
+
+* [Logistic Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/logistic%20regression%20projects)
+
+* [Naïve Bayes](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/na%C3%AFve%20bayes)
+
+* [Simple Neural Networks](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/simple%20neural%20networks)
 
 What Tools you will need: 
 
