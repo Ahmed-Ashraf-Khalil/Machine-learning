@@ -28,7 +28,7 @@ In this file you will know :
 * [Associaton rule - Apriori](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Unsupervised%20Learning/Associaton%20rule%20-%20Apriori)
 * [Clustering](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Unsupervised%20Learning/Clustering/K%20means%20clustering)
 
-## Machine learning With tools :
+## Machine learning With tools (Python) :
 
 after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier
 In this file you will know :
