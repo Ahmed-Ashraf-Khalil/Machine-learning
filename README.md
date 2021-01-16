@@ -41,5 +41,5 @@ In this file you will know :
 What Tools you will need: 
 
 ```
-pandas , numpy , sklearn , matplotlib , seaborn 
+pandas , numpy , sklearn , matplotlib , seaborn , apyori 
 ```
