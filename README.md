@@ -9,6 +9,7 @@
 * tools to help you work better and faster.
 * algorithms from scratch to gain the deep understanding of how Machine learning works and how it affects on data.
 
+<br/>
 
 ## Machine learning from scratch (python) :
 
@@ -18,6 +19,7 @@ In this file you will know :
 * How to implement (Linear Regression , Normal equation , Logistic Regression , K-Means clustering , Associaton rule - Apriori , simple reinforcement learning techniques ) from scratch.
 * Important visualizations to gain better understanding about how Machine Learning works in depth.
 * algorithms from scratch to gain the deep understanding of how Machine learning works and how it affects the data.
+<br/>
 
 ### parts of this file:
 
@@ -41,6 +43,8 @@ In this file you will know :
 
 * [Thompson sampling](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/simple%20re-inforcement-learning/thompson_sampling)
 
+<br/>
+
 ## Machine learning With Libraries (Python) :
 
 after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier
@@ -49,6 +53,8 @@ In this file you will know :
 * tools to help you work better and faster.
 * more advanced visualizations.
 * advanced tools that takes you the extra mile.
+
+<br/>
 
 ### parts of this file:
 
@@ -94,6 +100,7 @@ In this file you will know :
 
 * [PCA](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Unsupervised%20Learning/Principal%20Component%20Analysis_projects)
 
+<br/>
 
 What Tools you will need: 
 
