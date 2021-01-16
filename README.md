@@ -50,15 +50,15 @@ In this file you will know :
 
 #### Supervised Learning:
 
-* [KNN regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/KNN%20regression%20projects)
+* [KNN Regressor](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/KNN%20regression%20projects)
 
-* [KNN Classification ](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/KNN%20classification%20projects)
+* [KNN Classification](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/KNN%20classification%20projects)
 
-* [Decision Tree Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/decision-tree-regression)
+* [Decision Tree Regressor](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/decision-tree-regression)
 
-* [Random Forest Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/random-forest-regression)
+* [Random Forest Regressor](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Regression_projects/random-forest-regression)
 
-* [Gradient Boosted Decision Trees](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/ensample%20models/gradient%20boosted%20decision%20trees)
+* [Gradient Boosted Decision Tree Classifier](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/ensample%20models/gradient%20boosted%20decision%20trees)
 
 * [Random Forest Classifier](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/ensample%20models/random%20forest%20classifier)
 
