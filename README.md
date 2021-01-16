@@ -24,17 +24,21 @@ In this file you will know :
 #### Supervised Learning:
 
 * [Linear Regression](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Supervised%20Learning/Regression/LinearRegression)
+
 * [Normal Equation](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Supervised%20Learning/Regression/Normal%20equation)
+
 * [Logistic Regression](https://github.com/ahmed13131/Machinelearning./tree/master/Machine%20learning%20from%20Scratch/Supervised%20Learning/Classification/Logistic%20Regression)
 
 #### Unsupervised Learning:
 
 * [Associaton rule - Apriori](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Unsupervised%20Learning/Associaton%20rule%20-%20Apriori)
+
 * [Clustering](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/Unsupervised%20Learning/Clustering/K%20means%20clustering)
 
 #### simple re-inforcement-learning:
 
 * [Upper Confidence Bound](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/simple%20re-inforcement-learning/UCB)
+
 * [Thompson sampling](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20learning%20from%20Scratch/simple%20re-inforcement-learning/thompson_sampling)
 
 ## Machine learning With Libraries (Python) :
@@ -83,6 +87,13 @@ In this file you will know :
 * [Naïve Bayes](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/na%C3%AFve%20bayes)
 
 * [Simple Neural Networks](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Supervised%20Learning/Classification_Projects/simple%20neural%20networks)
+
+#### Unsupervised Learning:
+
+* [K Means Clustering](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Unsupervised%20Learning/K%20Means%20Clustering_projects)
+
+* [PCA](https://github.com/ahmed13131/Machine-learning./tree/master/Machine%20Learning%20With%20Libraries/Unsupervised%20Learning/Principal%20Component%20Analysis_projects)
+
 
 What Tools you will need: 
 
