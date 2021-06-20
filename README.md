@@ -16,7 +16,7 @@
 We all know getting into Machine Learning it is all about the mathematics , statistics and probabilities behind every model and visualizing the important insights.
 In this file you will know :
 
-* How to implement (Linear Regression , Normal equation , Logistic Regression , K-Means clustering , Associaton rule - Apriori , simple reinforcement learning techniques ) from scratch.
+* How to implement (Linear Regression , Normal equation , Logistic Regression , K-Means clustering , Associaton rule - Apriori , simple reinforcement learning techniques ) from scratch using only numpy and pandas.
 * Important visualizations to gain better understanding about how Machine Learning works in depth.
 * algorithms from scratch to gain the deep understanding of how Machine learning works and how it affects the data.
 <br/>
@@ -47,7 +47,7 @@ In this file you will know :
 
 ## Machine learning With Libraries (Python) :
 
-after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier
+after knowing the basics and methods to deal with machine learning problems , tools and frameworks will make things easier with sklearn.
 In this file you will know :
 
 * tools to help you work better and faster.
